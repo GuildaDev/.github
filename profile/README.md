@@ -8,4 +8,4 @@
 # Colaboradores
 
 - [Pedro Mendes (Ogro.dev)](https://www.linkedin.com/in/inpedromendes/)
-- [Alexandro Castro ( Open Source )](https://www.linkedin.com/in/alexandro-c-oliveira/)
+- [Alexandro Castro (Open Source)](https://www.linkedin.com/in/alexandro-c-oliveira/)
